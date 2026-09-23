@@ -1,0 +1,29 @@
+Job Title: Senior AI Backend Engineer
+Company: Apex Intelligent Systems
+Location: San Francisco, CA (Hybrid / Remote)
+Experience Level: 5+ years
+
+ABOUT THE ROLE
+We are seeking an experienced Senior AI Backend Engineer to lead the design and development of our core agentic platform. You will build mission-critical RESTful APIs, high-throughput asynchronous services, and vector search pipelines connecting modern Large Language Models to enterprise knowledge graphs.
+
+RESPONSIBILITIES
+- Design, build, and maintain robust, high-performance REST APIs and microservices using Python and FastAPI.
+- Architect scalable database schemas with PostgreSQL and implement high-efficiency vector embeddings retrieval using pgvector.
+- Build reliable asynchronous background worker jobs and distributed queuing pipelines using Celery and Redis.
+- Deploy, monitor, and scale cloud infrastructure on AWS utilizing Docker containers and CI/CD automation.
+- Collaborate with frontend engineers and product managers to deliver seamless AI agent features.
+
+REQUIRED SKILLS & QUALIFICATIONS
+- 5+ years of software development experience with Python.
+- Proven expertise in building production REST APIs using FastAPI or Django.
+- Strong relational database experience with PostgreSQL, including schema optimization and indexing.
+- Hands-on experience with Docker containerization and AWS cloud services (EC2, S3, RDS).
+- Familiarity with Git, automated testing (Pytest), and CI/CD pipelines.
+- Bachelor's degree in Computer Science, Software Engineering, or related technical field.
+
+PREFERRED SKILLS & QUALIFICATIONS
+- Experience with AI frameworks such as LangChain, LlamaIndex, or OpenAI APIs.
+- Experience with vector databases and semantic search embedding models.
+- Knowledge of Go or distributed messaging systems (Kafka, RabbitMQ).
+- Experience with Kubernetes (k8s) cluster orchestration and Terraform.
+- AWS Certified Solutions Architect or equivalent certification.

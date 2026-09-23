@@ -1,0 +1,38 @@
+Alex Rivera
+Email: alex.rivera@example.com | Phone: (555) 234-5678 | GitHub: github.com/arivera | Location: San Francisco, CA
+
+SUMMARY
+Senior Backend Software Engineer with 6+ years of experience designing scalable REST APIs, microservices, and distributed data systems. Specialized in Python, FastAPI, relational databases (PostgreSQL), and cloud infrastructure. Passionate about AI integration and high-performance backend architecture.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, Go, SQL, Bash
+- Frameworks & Libraries: FastAPI, Flask, Django, Pydantic, SQLAlchemy, Celery
+- Databases: PostgreSQL, Redis, SQLite
+- Cloud & DevOps: AWS (EC2, S3, RDS), Docker, GitHub Actions, Terraform
+- Architecture & Patterns: RESTful API design, Event-driven architecture, Microservices
+- AI & Data: LangChain, OpenAI APIs, Vector Embeddings, Pandas
+
+WORK EXPERIENCE
+
+Senior Software Engineer | CloudScale Systems | Jan 2022 – Present
+- Architected and deployed scalable REST APIs using FastAPI and PostgreSQL handling 15M+ daily requests.
+- Engineered asynchronous worker pipelines with Celery and Redis to process batch data workflows.
+- Led migration of legacy monolithic services into modular containerized microservices using Docker and AWS ECS.
+- Integrated LLM-powered semantic search capabilities using sentence embeddings and pgvector.
+
+Software Engineer | FinTech Innovations | Jun 2019 – Dec 2021
+- Developed core banking transaction endpoints using Python, Django, and PostgreSQL.
+- Optimized database indexing and slow SQL queries, reducing P99 latency by 35%.
+- Implemented comprehensive automated test suites using Pytest with 90%+ code coverage.
+- Configured CI/CD pipelines with GitHub Actions for automated deployment.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2015 – 2019
+
+PROJECTS
+- AI Document Q&A Agent: Built a document question-answering tool using Python, FastAPI, and vector embeddings for semantic document retrieval.
+- Distributed Task Queue: Implemented a lightweight distributed task processing queue in Go and Redis with dead-letter queue handling.
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2023)

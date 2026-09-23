@@ -1,0 +1,33 @@
+Maya Chen
+Email: maya.chen@example.com | Phone: (555) 987-6543 | Portfolio: mayachen.dev | Location: New York, NY
+
+SUMMARY
+Creative and detail-oriented Frontend Engineer with 4 years of hands-on experience building performant, accessible web applications with React, TypeScript, Next.js, and Tailwind CSS. Experienced in building responsive dashboards, design systems, and data visualization tools.
+
+TECHNICAL SKILLS
+- Languages: TypeScript, JavaScript (ES6+), HTML5, CSS3
+- Frontend Frameworks: React, Next.js, Redux Toolkit, React Query (TanStack Query)
+- Styling & UI: Tailwind CSS, CSS Modules, Radix UI, Framer Motion
+- Data Visualization: Recharts, Chart.js, D3.js
+- Testing & Tools: Vitest, Jest, React Testing Library, Webpack, Vite, Git
+
+WORK EXPERIENCE
+
+Frontend Engineer | MetricFlow Analytics | Feb 2022 – Present
+- Developed high-performance SaaS analytics dashboards in React and TypeScript with real-time data streaming.
+- Built reusable modular UI component library adopting Tailwind CSS and Radix UI primitives.
+- Optimized bundle sizes by 40% utilizing lazy loading and code splitting in Vite.
+- Implemented accessible interactive charting interfaces using Recharts and D3.
+
+Junior Web Developer | PixelCraft Studio | Jul 2020 – Jan 2022
+- Developed responsive marketing sites and web apps using React, JavaScript, and Tailwind CSS.
+- Collaborated with UX designers to translate Figma prototypes into pixel-perfect web interfaces.
+- Integrated RESTful APIs and handled client-side caching and state management.
+
+EDUCATION
+Bachelor of Science in Information Technology
+New York University (NYU) | 2016 – 2020
+
+PROJECTS
+- FinSight Dashboard: Interactive financial analytics portal featuring custom charts with Recharts and theme customization.
+- React Component Explorer: Open-source documentation and sandbox environment for design system tokens.

@@ -1,0 +1,27 @@
+Job Title: Senior Machine Learning Engineer
+Company: NeuralWave Labs
+Location: San Francisco, CA / Remote
+Experience Level: 4+ years
+
+ABOUT THE ROLE
+NeuralWave Labs is building next-generation agentic AI systems. We are looking for a Senior Machine Learning Engineer to design, train, and deploy large-scale NLP and deep learning models.
+
+RESPONSIBILITIES
+- Train and fine-tune open-source LLMs and transformer architectures for custom enterprise domains.
+- Build resilient model serving pipelines and REST inference APIs using PyTorch and FastAPI.
+- Implement vector search retrieval, semantic embeddings, and reranking pipelines.
+- Establish MLOps standards for continuous training, model tracking, and drift detection.
+
+REQUIRED SKILLS & QUALIFICATIONS
+- 4+ years of hands-on Machine Learning experience with Python.
+- Strong mastery of deep learning frameworks, specifically PyTorch.
+- Experience with NLP, Sentence Transformers, or Hugging Face ecosystem.
+- Solid understanding of ML algorithms (Scikit-learn, XGBoost) and evaluation metrics.
+- Familiarity with containerization (Docker) and cloud deployments.
+- Master's or Ph.D. in Computer Science, AI, or quantitative discipline.
+
+PREFERRED SKILLS & QUALIFICATIONS
+- Experience with distributed training (PyTorch FSDP, DeepSpeed).
+- Familiarity with MLOps platforms (MLflow, Weights & Biases).
+- Experience with LangChain, LlamaIndex, or agentic frameworks.
+- Knowledge of C++ or CUDA programming.

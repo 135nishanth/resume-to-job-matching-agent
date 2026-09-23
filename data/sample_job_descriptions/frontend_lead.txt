@@ -1,0 +1,26 @@
+Job Title: Lead Frontend Engineer
+Company: Lumina SaaS
+Location: New York, NY (Remote)
+Experience Level: 4+ years
+
+ABOUT THE ROLE
+Lumina is seeking a Lead Frontend Engineer to guide our client-side architecture. You will craft responsive, high-performance dashboards with sophisticated data visualization capabilities and modern user interfaces.
+
+RESPONSIBILITIES
+- Build scalable, pixel-perfect user interfaces using React, TypeScript, and modern styling solutions.
+- Architect state management and real-time streaming data visualizations using Recharts and D3.
+- Establish best practices for frontend performance, accessibility (a11y), and test coverage.
+- Collaborate with UX designers to evolve design systems and reusable component libraries.
+
+REQUIRED SKILLS & QUALIFICATIONS
+- 4+ years building production web applications with React and TypeScript.
+- Deep expertise with modern CSS, particularly Tailwind CSS or styled components.
+- Strong experience with interactive data visualization libraries (Recharts, D3, or Chart.js).
+- Proficiency with modern build tooling (Vite, Webpack) and unit testing (Vitest, Jest).
+- Solid understanding of REST APIs and client-side caching (React Query / TanStack Query).
+
+PREFERRED SKILLS & QUALIFICATIONS
+- Experience with Next.js (App Router) and Server Components.
+- Experience with UI animation libraries (Framer Motion).
+- Background in design systems or component libraries (Radix UI, Shadcn).
+- Familiarity with GraphQL.
